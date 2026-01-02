@@ -1,6 +1,6 @@
 ---
 title: "Topic Title"
-date: YYYY-MM-DD
+date: 2026-11-26
 topic: topic-name
 tags: [tag1, tag2, tag3]
 ---
